@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Silver",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/k0tVF51/Korean-Courses.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gold",
+        "price": "4000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Gn8swmT/51om-0a-IEUL.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Platinum",
+        "price": "5000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/9Hq59Rg/cover-171013-article.jpg"
+    }
+]
