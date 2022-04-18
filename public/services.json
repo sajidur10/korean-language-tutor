@@ -3,21 +3,21 @@
         "id": 1,
         "name": "Silver",
         "price": "3000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Study In Korea: This website has information about how to study in Korea. It is beneficial for people wishing to do a university degree in Korea. The website includes information about government scholarships and shows when each university’s application periods are open. It also contains recent news related to studying in Korea.",
         "img": "https://i.ibb.co/k0tVF51/Korean-Courses.jpg"
     },
     {
         "id": 2,
         "name": "Gold",
         "price": "4000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Footprints Recruiting: A highly popular choice for job seekers, Footprints is always innovating to help teachers find work in a faster, more effective way. Contact them, and they will do their best to find you the best Korean English teaching job available to you.",
         "img": "https://i.ibb.co/Gn8swmT/51om-0a-IEUL.jpg"
     },
     {
         "id": 3,
         "name": "Platinum",
         "price": "5000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Say Kimchi Recruiting: Say Kimchi provides only quality teaching jobs and closely vets applicants to ensure quality teachers fill quality jobs. After signing your contract, they’ll help you along the way with their amazing team that works from Korea to make your stay more comfortable.",
         "img": "https://i.ibb.co/9Hq59Rg/cover-171013-article.jpg"
     }
 ]
