@@ -1,9 +1,15 @@
 import React from 'react';
 import { Button, Form } from 'react-bootstrap';
+import { Navigate, useLocation } from 'react-router-dom';
 
 const Checkout = () => {
+    const location = useLocation();
+    const handleSubmit = event => {
+        event.preventDefault();
+        return <Navigate to="/home" state={{ from: location }} replace />;
+    }
     return (
-        <Form className='w-75 mx-auto my-5'>
+        <Form className='w-75 mx-auto my-5' onSubmit={handleSubmit}>
             <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Label className='fs-5'>Full Name</Form.Label>
                 <Form.Control type="text" placeholder="Enter Full Name" />
